@@ -1,4 +1,4 @@
-# Projeto LABSensing (UNAMA)
+# Levantamento-de-Dados-Agricolas-no-Brasil (UNAMA)
 
 Este repositório faz parte do Grupo de Pesquisa **LABSensing** da **Universidade da Amazônia (UNAMA)**, sob orientação do **Prof. Msc. Cavalcanti Fernandes**. O projeto realiza o levantamento e análise de dados sobre:
 

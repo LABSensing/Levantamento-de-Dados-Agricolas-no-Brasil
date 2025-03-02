@@ -1,6 +1,6 @@
 # Levantamento-de-Dados-Agricolas-no-Brasil (UNAMA)
 
-Este repositório faz parte do Grupo de Pesquisa **LABSensing** da **Universidade da Amazônia (UNAMA)**, sob orientação do **Prof. Msc. Cavalcanti Fernandes**. O projeto realiza o levantamento e análise de dados sobre:
+Este repositório faz parte do Grupo de Pesquisa **LABSensing** da **Universidade da Amazônia (UNAMA)**, sob orientação do **Prof. Msc. Filipe Cavalcanti Fernandes**. O projeto realiza o levantamento e análise de dados sobre:
 
 - 🌱 **Área plantada ou colhida (hectares)**
 - 👥 **População**
